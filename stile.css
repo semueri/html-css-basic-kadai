@@ -1,0 +1,38 @@
+body{
+    font-family: "Arial","Meiryo", sans-serif;
+    font-size: 20px;
+    /* Mのみ青色にする */
+h1 span.m{
+    color:skyblue;
+}
+/*Pのみピンクにする*/
+h1 span.p{
+    color: rgb(255,192,203);
+}
+    font-size: 40px;
+    {link rel="preconnect" href="https://fonts.googleapis.com"}
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+   font-family: "sans-serif" ;
+}
+.pink{
+    color: rgb(255,192,203);
+}
+.skyblue{
+    color: skyblue;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px yellow;
+    text-decoration: underline 3px rgb(115,115,114);
+}
+#basic .bold-text{
+    font-weight: bold;
+}
